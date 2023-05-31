@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zephyruss1
 - 👀 I’m interested in Software engineering
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning AI
 - 📫 How to reach me ekber276@yahoo.com
 
 <!---
