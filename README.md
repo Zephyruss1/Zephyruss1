@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Zephyruss1
-- 👀 I’m interested in Software engineering
+- 👀 I’m interested in AI Development
 - 🌱 I’m currently learning AI
 - 📫 How to reach me ekber276@yahoo.com
 
