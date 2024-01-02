@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zephyruss1
 - 👀 I’m interested in AI Engineer
-- 🌱 I’m currently learning Data Structures
+- 🌱 I’m currently learning Deep Learning
 - 📫 How to reach me zephyrus1175@yahoo.com
 
 <!---
