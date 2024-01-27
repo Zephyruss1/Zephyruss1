@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Nowhere**
 
-- 🌱 I’m currently learning **Machine Learning, Deep Learning**
+- 🌱 I’m currently focusing on **NLP and LLM **
 
 - 📫 How to reach me **zephyrus1175@yahoo.com**
 
