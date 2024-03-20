@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ekber Babayev</h1>
+<h1 align="center">Hi 👋, I'm Zephyrus</h1>
 <h3 align="center">From Turkey,Kayseri</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zephyruss1&label=Profile%20views&color=0e75b6&style=flat" alt="zephyruss1" /> </p>
