@@ -25,4 +25,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zephyruss1&" alt="zephyruss1" /></p>
 
 
-![snake gif](https://github.com/Zephyrus/Zephyrus/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Zephyruss1/Zephyruss1/blob/output/github-contribution-grid-snake.gif)
