@@ -56,8 +56,7 @@
   </table>
 </div>
 
-[![Spotify](spotifygithub-ad0m0kijj-zephyrus-projects-51ab65a0.vercel.app/api/spotify)](https://open.spotify.com/user/akueay)
-
+<!-- [![Spotify](spotifygithub-ad0m0kijj-zephyrus-projects-51ab65a0.vercel.app/api/spotify)](https://open.spotify.com/user/akueay) -->
 ![snake gif](https://github.com/Zephyruss1/Zephyruss1/blob/output/github-contribution-grid-snake.gif)
 
 <picture>
