@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zephyruss1&label=Profile%20views&color=0e75b6&style=flat" alt="zephyruss1" /> </p>
 
-- 🌱 I’m currently focusing on **NLP and LLM**
+- 🌱 I’m currently focusing on **ML & LLM**
 
 - 📫 How to reach me **zephyrus1175@yahoo.com**
 
